@@ -7,7 +7,7 @@ This Instagram bot script allows you to automatically block all users followed b
 ## Installation:
 
 1. Clone the repository or download the script files to your local machine.
-    ` git clone https://github.com/khaled50k/2024BlockOut.git `
+ <br/>   ` git clone https://github.com/khaled50k/2024BlockOut.git `
 2. Ensure you have Node.js installed on your system.
 3. Install the required dependencies by running `npm install` in the terminal within the project directory.
 4. Create a `.env` file in the project directory and add your Instagram username and password in the following format:
