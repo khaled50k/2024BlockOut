@@ -11,8 +11,8 @@ This Instagram bot script allows you to automatically block all users followed b
 3. Install the required dependencies by running `npm install` in the terminal within the project directory.
 4. Create a `.env` file in the project directory and add your Instagram username and password in the following format:
 
-IG_USERNAME=your_username
-IG_PASSWORD=your_password
+`IG_USERNAME=your_username
+IG_PASSWORD=your_password`
 
 **Note:** Make sure to keep your credentials secure and do not share them publicly.
 
